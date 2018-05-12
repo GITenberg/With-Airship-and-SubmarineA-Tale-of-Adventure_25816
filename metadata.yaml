@@ -1,0 +1,38 @@
+_repo: With-Airship-and-SubmarineA-Tale-of-Adventure_25816
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hodgson, E. S. (Edward Smith)
+    aliases:
+    - Hodgson, E.S.
+    - Hodgson, Edward Smith
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '9707'
+    url: http://www.gutenberg.org/2009/agents/9707
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collingwood, Harry
+    alias: Lancaster, William Joseph Cosens
+    birthdate: 1851
+    deathdate: 1922
+    gutenberg_agent_id: '9699'
+    url: http://www.gutenberg.org/2009/agents/9699
+description: ''
+gutenberg_issued: '2008-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Submarines (Ships) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+title: 'With Airship and Submarine: A Tale of Adventure'
+url: http://www.gutenberg.org/ebooks/25816
