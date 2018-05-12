@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '9699'
     url: http://www.gutenberg.org/2009/agents/9699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25816#With-Airship-and-SubmarineA-Tale-of-Adventure
 gutenberg_issued: '2008-06-17'
 gutenberg_type: Text
 identifiers:
